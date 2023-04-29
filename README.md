@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunji0519&show_icons=true&theme=radical)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunji0519)](https://solved.ac/kej980519@gmail.com)
